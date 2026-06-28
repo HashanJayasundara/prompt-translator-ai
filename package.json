@@ -1,0 +1,31 @@
+{
+  "name": "prompt-translator-ai",
+  "private": true,
+  "version": "1.0.0",
+  "description": "AI Prompt Translator - Translate English AI prompts into Sinhala using Gemini API",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.13",
+    "vue-router": "^4.5.0",
+    "pinia": "^3.0.2",
+    "axios": "^1.9.0",
+    "bootstrap": "^5.3.6",
+    "@popperjs/core": "^2.11.8",
+    "docx": "^9.5.0",
+    "xlsx": "^0.18.5",
+    "jspdf": "^3.0.1",
+    "jspdf-autotable": "^5.0.2",
+    "file-saver": "^2.0.5",
+    "mammoth": "^1.9.0",
+    "vue-toastification": "^2.0.0-rc.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "vite": "^6.3.5"
+  }
+}
